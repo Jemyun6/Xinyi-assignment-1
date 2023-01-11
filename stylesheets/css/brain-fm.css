@@ -1,0 +1,19 @@
+.card1{
+    flex-direction: row;
+    align-items: center;
+    color: whitesmoke;
+    display: flex;
+    text-decoration: none;
+}
+#f1 {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+
+input[type='button'] {
+    padding: 10px 30px;
+    font-weight: bold;
+    border: 0px;
+    border-radius: 55px;
+}
